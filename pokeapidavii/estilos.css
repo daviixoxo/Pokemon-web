@@ -1,0 +1,49 @@
+a:hover {
+  background-color: rgb(255, 163, 196); /* Rosado teatral */
+  color: rgb(52, 34, 59);
+}
+
+ul > li {
+  line-height: 40px;
+}
+
+body {
+  background-color: rgb(247, 233, 242); /* Fondo rosado claro */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  line-height: 30px;
+  font-size: 15px;
+}
+
+h1 {
+  color: rgb(90, 40, 99); /* Morado oscuro tipo telón */
+  padding: 10px;
+  background-color: rgb(255, 200, 230); /* Fondo rosa pastel */
+}
+
+a {
+  background-color: rgb(70, 60, 100);
+  color: aliceblue;
+  text-decoration: none;
+  padding: 5px;
+}
+
+ul > li {
+  line-height: 30px;
+}
+
+.curiosidades {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.contenedor {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
